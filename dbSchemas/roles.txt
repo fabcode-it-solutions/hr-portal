@@ -1,0 +1,125 @@
+{
+  "count": 5,
+  "fields": [
+    {
+      "name": "_id",
+      "path": [
+        "_id"
+      ],
+      "count": 5,
+      "type": "ObjectId",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "ObjectId",
+          "path": [
+            "_id"
+          ],
+          "count": 5,
+          "probability": 1,
+          "unique": 5,
+          "hasDuplicates": false,
+          "values": [
+            "65b8d1f7ab7bd963955052a5",
+            "65b8d207ab7bd963955052aa",
+            "65bcb5f759ba012b1234b35a",
+            "65b8d11b80ac4e36a84edc9c",
+            "65b8d216ab7bd963955052af"
+          ],
+          "bsonType": "ObjectId"
+        }
+      ]
+    },
+    {
+      "name": "__v",
+      "path": [
+        "__v"
+      ],
+      "count": 5,
+      "type": "Int32",
+      "probability": 1,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "Int32",
+          "path": [
+            "__v"
+          ],
+          "count": 5,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": true,
+          "values": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "bsonType": "Int32"
+        }
+      ]
+    },
+    {
+      "name": "roleName",
+      "path": [
+        "roleName"
+      ],
+      "count": 5,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "roleName"
+          ],
+          "count": 5,
+          "probability": 1,
+          "unique": 5,
+          "hasDuplicates": false,
+          "values": [
+            "Manager",
+            "Team Lead",
+            "managerer",
+            "Human Resources",
+            "Employee"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    },
+    {
+      "name": "roleValue",
+      "path": [
+        "roleValue"
+      ],
+      "count": 5,
+      "type": "Int32",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "Int32",
+          "path": [
+            "roleValue"
+          ],
+          "count": 5,
+          "probability": 1,
+          "unique": 5,
+          "hasDuplicates": false,
+          "values": [
+            2,
+            3,
+            6,
+            1,
+            4
+          ],
+          "bsonType": "Int32"
+        }
+      ]
+    }
+  ]
+}
