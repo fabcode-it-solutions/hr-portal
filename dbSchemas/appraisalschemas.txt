@@ -1,0 +1,288 @@
+{
+  "count": 2,
+  "fields": [
+    {
+      "name": "_id",
+      "path": [
+        "_id"
+      ],
+      "count": 2,
+      "type": "ObjectId",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "ObjectId",
+          "path": [
+            "_id"
+          ],
+          "count": 2,
+          "probability": 1,
+          "unique": 2,
+          "hasDuplicates": false,
+          "values": [
+            "65bcb53330f6ae7c7118afc1",
+            "65dd6ecb6491f039416f7c43"
+          ],
+          "bsonType": "ObjectId"
+        }
+      ]
+    },
+    {
+      "name": "__v",
+      "path": [
+        "__v"
+      ],
+      "count": 2,
+      "type": "Int32",
+      "probability": 1,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "Int32",
+          "path": [
+            "__v"
+          ],
+          "count": 2,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": true,
+          "values": [
+            0,
+            0
+          ],
+          "bsonType": "Int32"
+        }
+      ]
+    },
+    {
+      "name": "action",
+      "path": [
+        "action"
+      ],
+      "count": 2,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "action"
+          ],
+          "count": 2,
+          "probability": 1,
+          "unique": 2,
+          "hasDuplicates": false,
+          "values": [
+            "approved",
+            "hold"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    },
+    {
+      "name": "adminMessage",
+      "path": [
+        "adminMessage"
+      ],
+      "count": 2,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "adminMessage"
+          ],
+          "count": 2,
+          "probability": 1,
+          "unique": 2,
+          "hasDuplicates": false,
+          "values": [
+            "4000",
+            ""
+          ],
+          "bsonType": "String"
+        }
+      ]
+    },
+    {
+      "name": "amountOffer",
+      "path": [
+        "amountOffer"
+      ],
+      "count": 1,
+      "type": [
+        "String",
+        "Undefined"
+      ],
+      "probability": 0.5,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "amountOffer"
+          ],
+          "count": 1,
+          "probability": 0.5,
+          "unique": 1,
+          "hasDuplicates": false,
+          "values": [
+            "Your salary is revised from 11k to 15k and the next increment will be held after 06 month i.e in Oct 2024"
+          ],
+          "bsonType": "String"
+        },
+        {
+          "name": "Undefined",
+          "bsonType": "Undefined",
+          "unique": 1,
+          "hasDuplicates": false,
+          "path": [
+            "amountOffer"
+          ],
+          "count": 1,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "name": "createdAt",
+      "path": [
+        "createdAt"
+      ],
+      "count": 2,
+      "type": "Date",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "Date",
+          "path": [
+            "createdAt"
+          ],
+          "count": 2,
+          "probability": 1,
+          "unique": 2,
+          "hasDuplicates": false,
+          "values": [
+            "2024-02-02T09:26:11.904Z",
+            "2024-02-27T05:10:35.054Z"
+          ],
+          "bsonType": "Date"
+        }
+      ]
+    },
+    {
+      "name": "email",
+      "path": [
+        "email"
+      ],
+      "count": 2,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "email"
+          ],
+          "count": 2,
+          "probability": 1,
+          "unique": 2,
+          "hasDuplicates": false,
+          "values": [
+            "neetu@thefabcode.org",
+            "gurdit@thefabcode.org"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    },
+    {
+      "name": "expectedSalary",
+      "path": [
+        "expectedSalary"
+      ],
+      "count": 2,
+      "type": "Int32",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "Int32",
+          "path": [
+            "expectedSalary"
+          ],
+          "count": 2,
+          "probability": 1,
+          "unique": 2,
+          "hasDuplicates": false,
+          "values": [
+            20000,
+            55000
+          ],
+          "bsonType": "Int32"
+        }
+      ]
+    },
+    {
+      "name": "reason",
+      "path": [
+        "reason"
+      ],
+      "count": 2,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "reason"
+          ],
+          "count": 2,
+          "probability": 1,
+          "unique": 2,
+          "hasDuplicates": false,
+          "values": [
+            "Hello sir,\n\nI am writing to discuss my performance and contributions over the past year as I approach the completion of my first year with The Fabcode IT Solutions LLP. I have thoroughly enjoyed being part of the team and have dedicated myself to delivering results and adding value to our projects. \n \nOver the past 12 months, I have worked meticulously to promote the growth of the company. I believe that a review of my track record, achievements, and commitment to the company will justify the reasons for a raise in my salary as it would motivate me to continue giving my best and further align my interests with those of the company.\n\nI am open to scheduling a meeting to discuss this further and to provide additional details regarding my accomplishments and the value I bring to the team. I appreciate your time and consideration and am confident that we can reach an agreement that reflects both my contributions and the company's appreciation for its employees. \n \nThank you for your attention to this matter. I look forward to the opportunity to discuss this further. \n \n",
+            "Dear Sir,\n\nI am writing to formally request a meeting to discuss a salary appraisal in consideration of my nearing five years of service at The Fabcode IT Solutions LLP.\n\nAs I reflect on my time with The Fabcode IT Solutions LLP, I am grateful for the opportunities I've had to grow both personally and professionally.\nOver the past nearly five years, I have continually sought to exceed expectations, contribute meaningfully to our team's objectives, and support the overall success of our organization.\n\nThroughout my tenure, I have consistently demonstrated my commitment to excellence, taking on additional responsibilities, and actively seeking out opportunities for growth and development.\nI have been privileged to be part of projects that have not only challenged me but also allowed me to leverage my skills and experience for the benefit of the company.\n\nGiven my nearing milestone of five years with The Fabcode IT Solutions LLP, I believe it is an appropriate time to discuss a salary appraisal.\nI am confident that my contributions, dedication, and the value I bring to our team and the organization merit a review of my compensation.\n\nI am eager to schedule a meeting at your earliest convenience to discuss this matter further.\nI am keen to hear your insights and discuss how we can ensure that my compensation aligns with my contributions and the current market standards.\n\nThank you for considering my request. I look forward to the opportunity to discuss this important matter with you.\n\nWarm regards,\n\nGurdit Singh\nWeb Designer (TL)"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    },
+    {
+      "name": "updatedAt",
+      "path": [
+        "updatedAt"
+      ],
+      "count": 2,
+      "type": "Date",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "Date",
+          "path": [
+            "updatedAt"
+          ],
+          "count": 2,
+          "probability": 1,
+          "unique": 2,
+          "hasDuplicates": false,
+          "values": [
+            "2024-03-12T05:00:56.539Z",
+            "2024-02-27T05:10:35.054Z"
+          ],
+          "bsonType": "Date"
+        }
+      ]
+    }
+  ]
+}

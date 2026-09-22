@@ -1,0 +1,137 @@
+{
+  "count": 8,
+  "fields": [
+    {
+      "name": "_id",
+      "path": [
+        "_id"
+      ],
+      "count": 8,
+      "type": "ObjectId",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "ObjectId",
+          "path": [
+            "_id"
+          ],
+          "count": 8,
+          "probability": 1,
+          "unique": 8,
+          "hasDuplicates": false,
+          "values": [
+            "65a6758928109f8a7042b9ce",
+            "65a78411379cf1f6c16b0ccd",
+            "65a68561436114b89db1af1b",
+            "65b0a89d592ddabae66ffe9d",
+            "65c06e1c4645c49bf80b85ec",
+            "65a77e481db6053c9922475b",
+            "65b0b13b83073126bbeeb518",
+            "65a6757e28109f8a7042b9cb"
+          ],
+          "bsonType": "ObjectId"
+        }
+      ]
+    },
+    {
+      "name": "__v",
+      "path": [
+        "__v"
+      ],
+      "count": 8,
+      "type": "Int32",
+      "probability": 1,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "Int32",
+          "path": [
+            "__v"
+          ],
+          "count": 8,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": true,
+          "values": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "bsonType": "Int32"
+        }
+      ]
+    },
+    {
+      "name": "department",
+      "path": [
+        "department"
+      ],
+      "count": 8,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "department"
+          ],
+          "count": 8,
+          "probability": 1,
+          "unique": 8,
+          "hasDuplicates": false,
+          "values": [
+            "sales",
+            "digital marketing",
+            "nodejs",
+            "mern stack",
+            "management",
+            "designing",
+            "software tester ",
+            "php/shopify"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    },
+    {
+      "name": "departmentHead",
+      "path": [
+        "departmentHead"
+      ],
+      "count": 8,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "departmentHead"
+          ],
+          "count": 8,
+          "probability": 1,
+          "unique": 8,
+          "hasDuplicates": false,
+          "values": [
+            "Arun Sharama",
+            "Abhishek",
+            "Pupinder",
+            "Pupinder ",
+            "Ravin Kashyap",
+            "Gurdit  Singh",
+            "Pradeep",
+            "Hemant Raghuwanshi"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    }
+  ]
+}

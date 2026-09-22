@@ -1,0 +1,702 @@
+{
+  "count": 37,
+  "fields": [
+    {
+      "name": "_id",
+      "path": [
+        "_id"
+      ],
+      "count": 37,
+      "type": "ObjectId",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "ObjectId",
+          "path": [
+            "_id"
+          ],
+          "count": 37,
+          "probability": 1,
+          "unique": 37,
+          "hasDuplicates": false,
+          "values": [
+            "65c5aeba383a5218e3809ad3",
+            "65f3e10cd4b10d044cc8f92a",
+            "65e9450a0f93755af554fe0d",
+            "65e7203feab6061988cec15d",
+            "65c9abfa7fd9bc65cd7af004",
+            "65fbaa6ce257678f8bb8c71f",
+            "65e05c649caba623fd30a561",
+            "65f700f37704e40317ca3bf1",
+            "65c3348b045f49e0b338edb3",
+            "65c9aa8fd7d08f2e5a6a894e",
+            "65d5a74380ea749e00e53ba8",
+            "65fd545196f73279476499f6",
+            "65f9252b039949b8b992fecf",
+            "65c5c93cd4f70cbe75a779a3",
+            "6603fbb9f8661ab22dde6f2b",
+            "65cacea9db19977abe58239d",
+            "65cd973c5aa02c8bea98a28d",
+            "65e55e55ea18dca61034e2f0",
+            "65f701707dbda2199a8326ee",
+            "65f98f2e2467286e28c6cbd3",
+            "65f3f0b256a21b9a2c11d4f6",
+            "65c5c5b39f859041647eab86",
+            "65fd53c896f73279476499ee",
+            "65fd536130ee825fa74b2b3d",
+            "65c9ab3b7fd9bc65cd7aeff9",
+            "65ceeabd48ce5bd7121c418b",
+            "65f701297dbda2199a8326e4",
+            "65dbf45cb63653acc4a33f08",
+            "65c3461914e8a060cabcc0ee",
+            "65ea842c64ceca5962c07fbc",
+            "65fd2256032fab64897d5cde",
+            "65ca063ab38325292b1f8bf1",
+            "65c9a59eb1a721ff956ea926",
+            "65f3dc28b1d8adce613f62ec",
+            "65e945550cf8fa6f56dcb8a2",
+            "6603fedc2e68d445e162e13d",
+            "65c3352c13a5ed632906d56f"
+          ],
+          "bsonType": "ObjectId"
+        }
+      ]
+    },
+    {
+      "name": "__v",
+      "path": [
+        "__v"
+      ],
+      "count": 37,
+      "type": "Int32",
+      "probability": 1,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "Int32",
+          "path": [
+            "__v"
+          ],
+          "count": 37,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": true,
+          "values": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "bsonType": "Int32"
+        }
+      ]
+    },
+    {
+      "name": "action",
+      "path": [
+        "action"
+      ],
+      "count": 28,
+      "type": [
+        "String",
+        "Undefined"
+      ],
+      "probability": 0.7567567567567568,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "action"
+          ],
+          "count": 28,
+          "probability": 0.7567567567567568,
+          "unique": 2,
+          "hasDuplicates": true,
+          "values": [
+            "approve",
+            "approve",
+            "approve",
+            "approve",
+            "approve",
+            "reject",
+            "approve",
+            "approve",
+            "reject",
+            "approve",
+            "approve",
+            "approve",
+            "approve",
+            "reject",
+            "approve",
+            "approve",
+            "approve",
+            "approve",
+            "approve",
+            "approve",
+            "approve",
+            "approve",
+            "approve",
+            "approve",
+            "approve",
+            "approve",
+            "approve",
+            "approve"
+          ],
+          "bsonType": "String"
+        },
+        {
+          "name": "Undefined",
+          "bsonType": "Undefined",
+          "unique": 0,
+          "hasDuplicates": true,
+          "path": [
+            "action"
+          ],
+          "count": 9,
+          "probability": 0.24324324324324326
+        }
+      ]
+    },
+    {
+      "name": "createdAt",
+      "path": [
+        "createdAt"
+      ],
+      "count": 37,
+      "type": "Date",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "Date",
+          "path": [
+            "createdAt"
+          ],
+          "count": 37,
+          "probability": 1,
+          "unique": 37,
+          "hasDuplicates": false,
+          "values": [
+            "2024-02-09T04:48:59.186Z",
+            "2024-03-15T05:47:57.842Z",
+            "2024-03-07T04:39:39.970Z",
+            "2024-03-05T13:38:08.874Z",
+            "2024-02-12T05:26:19.772Z",
+            "2024-03-21T03:33:01.764Z",
+            "2024-02-29T10:28:53.392Z",
+            "2024-03-17T14:40:53.960Z",
+            "2024-02-07T07:43:08.506Z",
+            "2024-02-12T05:20:16.636Z",
+            "2024-02-21T07:33:24.771Z",
+            "2024-03-22T09:50:10.387Z",
+            "2024-03-19T05:39:57.029Z",
+            "2024-02-09T06:42:05.703Z",
+            "2024-03-27T10:58:02.294Z",
+            "2024-02-13T02:06:34.617Z",
+            "2024-02-15T04:46:54.325Z",
+            "2024-03-04T05:38:31.116Z",
+            "2024-03-17T14:42:57.284Z",
+            "2024-03-19T13:12:16.141Z",
+            "2024-03-15T06:54:44.164Z",
+            "2024-02-09T06:27:00.191Z",
+            "2024-03-22T09:47:53.735Z",
+            "2024-03-22T09:46:10.398Z",
+            "2024-02-12T05:23:08.687Z",
+            "2024-02-16T04:55:27.496Z",
+            "2024-03-17T14:41:46.350Z",
+            "2024-02-26T02:15:57.378Z",
+            "2024-02-07T08:58:02.944Z",
+            "2024-03-08T03:21:18.162Z",
+            "2024-03-22T06:16:55.162Z",
+            "2024-02-12T11:51:23.434Z",
+            "2024-02-12T04:59:11.169Z",
+            "2024-03-15T05:27:05.090Z",
+            "2024-03-07T04:40:54.854Z",
+            "2024-03-27T11:11:25.602Z",
+            "2024-02-07T07:45:49.119Z"
+          ],
+          "bsonType": "Date"
+        }
+      ]
+    },
+    {
+      "name": "email",
+      "path": [
+        "email"
+      ],
+      "count": 37,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "email"
+          ],
+          "count": 37,
+          "probability": 1,
+          "unique": 15,
+          "hasDuplicates": true,
+          "values": [
+            "tejinder@thefabcode.org",
+            "harshit@thefabcode.org",
+            "kavita@thefabcode.org",
+            "lovepreet@thefabcode.org",
+            "sheetal@thefabcode.org",
+            "karan@thefabcode.org",
+            "ayushman@thefabcode.org",
+            "karan@thefabcode.org",
+            "rana@thefabcode.org",
+            "harshit@thefabcode.org",
+            "neetu@thefabcode.org",
+            "harshit@thefabcode.org",
+            "neetu@thefabcode.org",
+            "sheetal@thefabcode.org",
+            "sangeeta@thefabcode.org",
+            "ruchi@thefabcode.org",
+            "kavita@thefabcode.org",
+            "tejinder@thefabcode.org",
+            "karan@thefabcode.org",
+            "sonal@thefabcode.org",
+            "harshit@thefabcode.org",
+            "neetu@thefabcode.org",
+            "ashish@thefabcode.org",
+            "ashish@thefabcode.org",
+            "harshit@thefabcode.org",
+            "prateek@thefabcode.org",
+            "karan@thefabcode.org",
+            "ruchi@thefabcode.org",
+            "karan@thefabcode.org",
+            "prateek@thefabcode.org",
+            "gurdit@thefabcode.org",
+            "ruchi@thefabcode.org",
+            "gurdit@thefabcode.org",
+            "ashish@thefabcode.org",
+            "gurdit@thefabcode.org",
+            "sangeeta@thefabcode.org",
+            "rana@thefabcode.org"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    },
+    {
+      "name": "message",
+      "path": [
+        "message"
+      ],
+      "count": 28,
+      "type": [
+        "String",
+        "Undefined"
+      ],
+      "probability": 0.7567567567567568,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "message"
+          ],
+          "count": 28,
+          "probability": 0.7567567567567568,
+          "unique": 11,
+          "hasDuplicates": true,
+          "values": [
+            "Approved. ",
+            "Approved",
+            "Approved ",
+            "Approved ",
+            "Approved",
+            "Your S.L. is not approved. ",
+            "Approved and be careful about your leaves for next time.",
+            "Approved",
+            "Leave is not approved ",
+            "Approved",
+            "Approved",
+            "Approved ",
+            "Approved",
+            "Rejected",
+            "Approved",
+            "approved",
+            "Approved",
+            "Approved ",
+            "Approved",
+            "Approved with double Sandwich",
+            "Approved and Congratulations",
+            "Approved",
+            "Approved",
+            "Approved",
+            "Approved.",
+            "Approved",
+            "Approved",
+            "Approved"
+          ],
+          "bsonType": "String"
+        },
+        {
+          "name": "Undefined",
+          "bsonType": "Undefined",
+          "unique": 0,
+          "hasDuplicates": true,
+          "path": [
+            "message"
+          ],
+          "count": 9,
+          "probability": 0.24324324324324326
+        }
+      ]
+    },
+    {
+      "name": "seenAdmin",
+      "path": [
+        "seenAdmin"
+      ],
+      "count": 37,
+      "type": "Boolean",
+      "probability": 1,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "Boolean",
+          "path": [
+            "seenAdmin"
+          ],
+          "count": 37,
+          "probability": 1,
+          "unique": 2,
+          "hasDuplicates": true,
+          "values": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            true
+          ],
+          "bsonType": "Boolean"
+        }
+      ]
+    },
+    {
+      "name": "text",
+      "path": [
+        "text"
+      ],
+      "count": 37,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "text"
+          ],
+          "count": 37,
+          "probability": 1,
+          "unique": 35,
+          "hasDuplicates": true,
+          "values": [
+            "Dear Sir, \n\nI hope this email finds you well. I am writing to inform you that due to my current health condition, I am in need of a short leave from work. I am experiencing some health issues that require immediate attention, and I need to focus on recuperating.\n\nI kindly request a short leave to prioritize my health and well-being. I will be available in the morning to address any urgent matters that may arise, but I may not be able to fully engage in work-related tasks during this time.\n\nRest assured, I will ensure that my email and phone are accessible in case of any urgent work-related matters that require my attention.\n\nThank you for understanding and considering my request during this challenging time. I look forward to your approval and appreciate your support.\n\nRegards \nTijender",
+            "\nDear Sir,\n\nI hope this message finds you well. I am writing to request a leave of absence for half day on march 18th due to urgent work that requires my attention at home. I will ensure that all my pending tasks are completed.",
+            "I beg to say that I am not well even today, I have very high fever. I am going to the doctor to get medicine. please give me sick leave for today.I shall be very thankful to you for this",
+            "I am going home with urgent piece of work.",
+            "I am writing to request a one-day leave on 19-feb (Monday) due to my cousin's marriage ceremony.\n",
+            "Greetings,\n\nI am writing this email to inform you that I will not be able to come to work today as I am down with fever and weakness.\nKindly grant me leave for a day for 21st March, 2024.\n\nSincerely\nKaran Khaira.",
+            "I am sending this mail to inform you that due to some urgent work i have to go my hometown so for that i need a short leave ",
+            "Greetings,\nI am writing this email to inform you that I will not be able to come to work till 12 AM on 18th March, 2024.\nKindly grant me a short leave.\nSincerely\nKaran Khaira.",
+            "I would like to inform you that, I have a family marriage to attend on \"13 and 14 Feb 2024\", so I'll require leave for these two days. Also, since traveling back and forth to my home town takes 8 hours one way, so it'll be difficult for me to manage the travel. So I am requesting for a Work From Home for the next week's remaining days, which include the following dates - 12, 15, and 16 Feb.\n\nThat way, I'll be able to travel back and forth during the weekend and will be able to manage all the work from home properly. So kindly approve my request for leave and work from home.\n\nI shall be very grateful to you.\n\nHere are the dates of leave and work from home for confirmation -\n\nRequired work from home for - \n---------------------------------------\nMon (12 Feb 2024)\nThursday (15 Feb 2024)\nFriday (16 Feb 2024)\n\nRequired leave for -\n-------------------------\nTuesday (13 Feb 2024)\nWednesday (14 Feb 2024)\n\nRest assured that I'll take care of all the work during this period and even on holidays, I'll be available on the calls and will respond to any required assistance. I'll ensure that all the work keeps running smoothly.\n\nThanks and Regards\nRana Digvijay Singh",
+            "Dear Sir,\n \nI hope this email finds you well. I am writing to request a one-day leave for this upcoming Friday, (16-02-2023). I need to attend a family function on that day.\n \nI assure you that I will ensure all pending tasks are completed before my absence, and I will coordinate with my colleagues to manage any urgent matters during my absence.\n \nThank you for your understanding.\n \nBest regards,\nHarshit Thakur\nReact Js Developer",
+            "I am writing this to inform you that I am not well as I am suffering from a stomach infection. \nTherefore, permit me to take a Half day leave. I shall be very grateful to you. \nSincerely,\nNeetu, Software Tester",
+            "Dear sir\nI hope this message finds you well. I am writing to request urgent leave from [26 march] to [27 march] due to pressing work commitments that require my immediate attention.",
+            "Hi sir, \nI am writing to inform you that I will need to take a half-day leave on Friday, March 22, 2024, as I have important work to attend to. I kindly request that you look into this and approve the same. I would be very grateful to you.\n\nSincerely,  \nNeetu, Software Tester ",
+            "Testing",
+            "Hello sir,\n\nI am writing this to request a short leave of 2 hours in the evening on Friday i.e. 29th March 2024 due to an urgent piece of work. \n\nYour understanding and support in this matter would be greatly appreciated.\n\nThanks & Regards,",
+            "I am not feeling well since yesterday. So I can't come to the office today. Kindly grant me leave for today. \n\nI shall be very thankful to you \n",
+            "I am writing to request a leave of absence from 19/02/2024 as my cousin’s sister’s marriage has been fixed, and I have to attend the ceremony. Kindly grant me leave for one day.\nThank you for your kind cooperation.",
+            "Dear Sir,\n\nI hope this email finds you well. I am writing to formally request leave to attend my sister's wedding, which is scheduled for 12-03-2023.\n\nGiven the significance of this event in my family, I would like to take Two days off from work, starting from 11-03-2024 to 12-03-2024. This will allow me to participate fully in the celebrations and support my sister during this special occasion.\n\nI understand the importance of my responsibilities at work and assure you that I will complete all pending tasks before my leave begins. Additionally, I am willing to coordinate with my colleagues to ensure that my absence does not disrupt the workflow.\n\nPlease find attached the wedding invitation for your reference.\nhttps://prnt.sc/knt-0crMl4V7\n\nI would be grateful if you could consider my request and grant me the requested leave. If you need any further information or documentation, please let me know, and I will be happy to provide it promptly.\n\nThank you for your consideration.\n\nWarm regards,\nTijender\n",
+            "Greetings,\nI am writing this email to inform you that I will not be able to come to work till 12 AM on 18th March 2024.\nKindly grant me a short leave.\nSincerely\nKaran Khaira.",
+            "Sir, I Have to go home; I need a holiday for that, I have urgent work at home",
+            "Dear Sir,\nI hope this message finds you well. I am writing to request a leave of absence for half day on March 18th due to urgent work that requires my attention at home. I will ensure that all my pending tasks are completed.",
+            "This is to inform you that I require a short leave of 1 hour from the office today. As I have some urgent work. Therefore, permit me to take a short leave. I shall be very grateful to you. \n\nSincerely, \nNeetu, \nSoftware Tester ",
+            "Dear sir,\nI hope this message finds you well. I am writing to request urgent leave from March 26th to March 27th due to pressing work commitments that require my immediate attention.",
+            "Dear sir,\nI hope this message finds you well. I am writing to request urgent leave from [start date] to [end date] due to pressing work commitments that require my immediate attention.",
+            "Dear Sir,\n \nI hope this email finds you well. I am writing to request a one-day leave for this upcoming Friday, (16-02-2023). I need to attend a family function on that day.\n \nI assure you that I will ensure all pending tasks are completed before my absence, and I will coordinate with my colleagues to manage any urgent matters during my absence.\n \nThank you for your understanding.\n \nBest regards,\nHarshit Thakur\nReact Js Developer",
+            "Going for urgent work",
+            "Greetings,\n\nI am writing this email to inform you that I will not be able to come to work till 12 AM on 18th March, 2024.\nKindly grant me a short leave.\nSincerely\nKaran Khaira.",
+            "I have some urgent work at home. so I cant come to the office. kindly grant me leave for today. \nI shall be very thankful to you. ",
+            "Greetings, \nI am writing this email to inform you that I will not be able to come to the office from 26th February to 15th March due to my marriage. Kindly grant me a leave for 3 weeks. \nI will be thankful to you for considering my application. \nYours Sincerely \nKaran Khaira.",
+            "Suffering from fever",
+            "Dear Sir\n\nI hope this email finds you well. I am writing to formally request a medical leave of absence from work due to health reasons. Unfortunately, I have been experiencing fever, seizing and pain in neck, which requires medical attention and some time for recovery.\n\nAfter consulting with my healthcare provider, it has been advised that I take some time off work to focus on my treatment and recuperation. Therefore, I kindly request to be granted a leave of today.\n\nDuring my absence, I will ensure that all pending tasks and responsibilities are either completed or appropriately delegated to ensure smooth continuity of operations within the team. I am also willing to provide any necessary documentation from my healthcare provider to support my request.\n\nI understand the impact that my absence may have on the team's workload, and I sincerely apologize for any inconvenience caused. I am committed to maintaining communication with my colleagues and assisting in any way possible during this period.\n\nThank you for your attention to this matter.\n\nRegards,\nGurdit Singh\n",
+            "I am not feeling well since in the morning. ",
+            "Dear Sir,\n\nI hope this message finds you well. I am writing to request emergency leave for a single day, 13th Feb 2024, due to an urgent matter that requires my immediate attention. \n\nI apologize for any inconvenience this may cause and assure you that I will be reachable via phone and email in case of any urgent matters that may arise during my absence. I am committed to promptly address any issues and to make up for any lost time upon my return.\n\nIf there are any specific tasks or instructions you would like me to handle before I leave, please feel free to let me know, and I will ensure they are taken care of prior to my departure.\n\nThank you for your understanding and consideration of my request. I am grateful for your support and am looking forward to your approval.\n\nBest regards,\nGurdit Singh",
+            "Dear Sir, \nI hope this message finds you well. I am writing to request a leave of absence for half day on January 25th due to urgent work that requires my attention at home. I will ensure that all my pending tasks are completed.",
+            "Dear Sir,\n\nI am writing to request a half-day leave from work on 07-03-2024 due to a dental appointment that I need to attend.\n\nUnfortunately, I have been experiencing significant dental pain since late last night, and I want to consult it with dentist. \n\nI understand the importance of my responsibilities at work, and I assure you that I will complete any pending tasks before my departure and ensure that my absence does not impact the team's productivity. If needed, I am also available to delegate any urgent tasks or provide necessary instructions to ensure a smooth workflow during my absence.\n\nI apologize for any inconvenience my absence may cause and appreciate your understanding and support in this matter. I will be reachable via email or phone in case of any urgent matters that require my attention.\n\nThank you for your consideration.\n\nBest regards,\n\nGurdit Singh\nWeb Designer TL",
+            "Short leave on Friday i.e. 29th March 2024 in the evening. ",
+            "I would like to inform you that, I have a family marriage to attend on \"13 and 14 Feb 2024\", so I'll require leave for these two days. Also, since traveling back and forth to my home town takes 8 hours one way, so it'll be difficult for me to manage the travel. So I am requesting for a Work From Home for the next week's remaining days, which include the following dates - 12, 15, and 16 Feb.\n\nThat way, I'll be able to travel back and forth during the weekend and will be able to manage all the work from home properly. So kindly approve my request for leave and work from home.\n\nI shall be very grateful to you.\n\nHere are the dates of leave and work from home for confirmation -\n\nRequired work from home for - \n---------------------------------------\nMon (12 Feb 2024)\nThursday (15 Feb 2024)\nFriday (16 Feb 2024)\n\nRequired leave for -\n-------------------------\nTuesday (13 Feb 2024)\nWednesday (14 Feb 2024)\n\nRest assured that I'll take care of all the work during this period and even on holidays, I'll be available on the calls and will respond to any required assistance. I'll ensure that all the work keeps running smoothly.\n\nThanks and Regards\nRana Digvijay Singh"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    },
+    {
+      "name": "title",
+      "path": [
+        "title"
+      ],
+      "count": 37,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "title"
+          ],
+          "count": 37,
+          "probability": 1,
+          "unique": 31,
+          "hasDuplicates": true,
+          "values": [
+            "tejinder@thefabcode.org\nShort Day Leave Request",
+            "harshit@thefabcode.org\nLeave Request For Urgent Work at Home",
+            "kavita@thefabcode.org\nMedical leave ",
+            "lovepreet@thefabcode.org\nUrgent piece of work",
+            "sheetal@thefabcode.org\nCousin's Marriage Ceremony",
+            "karan@thefabcode.org\nEmail for 1 day leave",
+            "ayushman@thefabcode.org\nmail for short leave ",
+            "karan@thefabcode.org\nEmail for a short leave.",
+            "rana@thefabcode.org\nNeed to attend a Family Marriage",
+            "harshit@thefabcode.org\n Leave Request for Family Function",
+            "neetu@thefabcode.org\n Application for half day Leave",
+            "harshit@thefabcode.org\nUrgent Leave Request",
+            "neetu@thefabcode.org\n Application for half day Leave",
+            "sheetal@thefabcode.org\nTesting",
+            "sangeeta@thefabcode.org\nRequest for a short leave ",
+            "ruchi@thefabcode.org\nMedical leave",
+            "kavita@thefabcode.org\nLeave Application for Cousin Sister Marriage",
+            "tejinder@thefabcode.org\nRequest for Leave to Attend Sister's Wedding",
+            "karan@thefabcode.org\nEmail for a short leave.",
+            "sonal@thefabcode.org\nHalf Day Leave ",
+            "harshit@thefabcode.org\nLeave Request for Urgent Work at Home",
+            "neetu@thefabcode.org\n Application for Short Leave",
+            "ashish@thefabcode.org\nUrgent Leave Request",
+            "ashish@thefabcode.org\nUrgent Leave Request",
+            "harshit@thefabcode.org\nLeave Request for Family Function",
+            "prateek@thefabcode.org\nGoing for urgent work",
+            "karan@thefabcode.org\nEmail for a short leave.",
+            "ruchi@thefabcode.org\nUrgent work ",
+            "karan@thefabcode.org\nEmail for 3 weeks leave",
+            "prateek@thefabcode.org\nSick leave ",
+            "gurdit@thefabcode.org\n Request for Medical Leave",
+            "ruchi@thefabcode.org\nMedical Leave",
+            "gurdit@thefabcode.org\nRequest for Leave ",
+            "ashish@thefabcode.org\nLeave Request for Urgent Work at Home ",
+            "gurdit@thefabcode.org\nRequest for Half Day Leave Due to Dental Appointment",
+            "sangeeta@thefabcode.org\nRequest for a short leave ",
+            "rana@thefabcode.org\nNeed to attend a Family Marriage"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    },
+    {
+      "name": "updatedAt",
+      "path": [
+        "updatedAt"
+      ],
+      "count": 37,
+      "type": "Date",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "Date",
+          "path": [
+            "updatedAt"
+          ],
+          "count": 37,
+          "probability": 1,
+          "unique": 37,
+          "hasDuplicates": false,
+          "values": [
+            "2024-02-09T04:48:59.186Z",
+            "2024-03-15T05:47:57.841Z",
+            "2024-03-07T04:39:39.970Z",
+            "2024-03-05T13:38:08.874Z",
+            "2024-02-12T05:26:19.772Z",
+            "2024-03-21T03:33:01.764Z",
+            "2024-02-29T10:28:53.392Z",
+            "2024-03-17T14:40:53.960Z",
+            "2024-02-07T07:43:08.506Z",
+            "2024-02-12T05:20:16.636Z",
+            "2024-02-21T07:33:24.771Z",
+            "2024-03-22T09:50:10.387Z",
+            "2024-03-19T05:39:57.029Z",
+            "2024-02-09T06:42:05.703Z",
+            "2024-03-27T10:58:02.294Z",
+            "2024-02-13T02:06:34.617Z",
+            "2024-02-15T04:46:54.325Z",
+            "2024-03-04T05:38:31.116Z",
+            "2024-03-17T14:42:57.284Z",
+            "2024-03-19T13:12:16.141Z",
+            "2024-03-15T06:54:44.164Z",
+            "2024-02-09T06:27:00.191Z",
+            "2024-03-22T09:47:53.735Z",
+            "2024-03-22T09:46:10.398Z",
+            "2024-02-12T05:23:08.687Z",
+            "2024-02-16T04:55:27.496Z",
+            "2024-03-17T14:41:46.350Z",
+            "2024-02-26T02:15:57.378Z",
+            "2024-02-07T08:58:02.944Z",
+            "2024-03-08T03:21:18.162Z",
+            "2024-03-22T06:16:55.162Z",
+            "2024-02-12T11:51:23.434Z",
+            "2024-02-12T04:59:11.169Z",
+            "2024-03-15T05:27:05.090Z",
+            "2024-03-07T04:40:54.854Z",
+            "2024-03-27T11:11:25.602Z",
+            "2024-02-07T07:45:49.119Z"
+          ],
+          "bsonType": "Date"
+        }
+      ]
+    },
+    {
+      "name": "userSeen",
+      "path": [
+        "userSeen"
+      ],
+      "count": 28,
+      "type": [
+        "Boolean",
+        "Undefined"
+      ],
+      "probability": 0.7567567567567568,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "Boolean",
+          "path": [
+            "userSeen"
+          ],
+          "count": 28,
+          "probability": 0.7567567567567568,
+          "unique": 2,
+          "hasDuplicates": true,
+          "values": [
+            true,
+            true,
+            false,
+            true,
+            false,
+            true,
+            true,
+            false,
+            true,
+            true,
+            true,
+            false,
+            false,
+            false,
+            false,
+            true,
+            false,
+            false,
+            false,
+            true,
+            false,
+            false,
+            false,
+            true,
+            true,
+            true,
+            true,
+            false
+          ],
+          "bsonType": "Boolean"
+        },
+        {
+          "name": "Undefined",
+          "bsonType": "Undefined",
+          "unique": 0,
+          "hasDuplicates": true,
+          "path": [
+            "userSeen"
+          ],
+          "count": 9,
+          "probability": 0.24324324324324326
+        }
+      ]
+    }
+  ]
+}

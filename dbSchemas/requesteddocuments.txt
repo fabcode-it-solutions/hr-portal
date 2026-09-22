@@ -1,0 +1,257 @@
+{
+  "count": 3,
+  "fields": [
+    {
+      "name": "_id",
+      "path": [
+        "_id"
+      ],
+      "count": 3,
+      "type": "ObjectId",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "ObjectId",
+          "path": [
+            "_id"
+          ],
+          "count": 3,
+          "probability": 1,
+          "unique": 3,
+          "hasDuplicates": false,
+          "values": [
+            "65bcc0d40abae92164845137",
+            "66029caf4fc67e8379a6d2da",
+            "65bb4330d1fb4549bab2a323"
+          ],
+          "bsonType": "ObjectId"
+        }
+      ]
+    },
+    {
+      "name": "__v",
+      "path": [
+        "__v"
+      ],
+      "count": 3,
+      "type": "Int32",
+      "probability": 1,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "Int32",
+          "path": [
+            "__v"
+          ],
+          "count": 3,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": true,
+          "values": [
+            0,
+            0,
+            0
+          ],
+          "bsonType": "Int32"
+        }
+      ]
+    },
+    {
+      "name": "createdAt",
+      "path": [
+        "createdAt"
+      ],
+      "count": 3,
+      "type": "Date",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "Date",
+          "path": [
+            "createdAt"
+          ],
+          "count": 3,
+          "probability": 1,
+          "unique": 3,
+          "hasDuplicates": false,
+          "values": [
+            "2024-02-02T10:15:48.296Z",
+            "2024-03-26T10:00:15.822Z",
+            "2024-02-01T07:07:28.514Z"
+          ],
+          "bsonType": "Date"
+        }
+      ]
+    },
+    {
+      "name": "email",
+      "path": [
+        "email"
+      ],
+      "count": 3,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "email"
+          ],
+          "count": 3,
+          "probability": 1,
+          "unique": 3,
+          "hasDuplicates": false,
+          "values": [
+            "sheetal@thefabcode.org",
+            "pradeep@thefabcode.org",
+            "ritika@thefabcode.org"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    },
+    {
+      "name": "experienceLetter",
+      "path": [
+        "experienceLetter"
+      ],
+      "count": 3,
+      "type": "Boolean",
+      "probability": 1,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "Boolean",
+          "path": [
+            "experienceLetter"
+          ],
+          "count": 3,
+          "probability": 1,
+          "unique": 2,
+          "hasDuplicates": true,
+          "values": [
+            true,
+            true,
+            false
+          ],
+          "bsonType": "Boolean"
+        }
+      ]
+    },
+    {
+      "name": "otherDocuments",
+      "path": [
+        "otherDocuments"
+      ],
+      "count": 3,
+      "type": "Boolean",
+      "probability": 1,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "Boolean",
+          "path": [
+            "otherDocuments"
+          ],
+          "count": 3,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": true,
+          "values": [
+            true,
+            true,
+            true
+          ],
+          "bsonType": "Boolean"
+        }
+      ]
+    },
+    {
+      "name": "reason",
+      "path": [
+        "reason"
+      ],
+      "count": 3,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "reason"
+          ],
+          "count": 3,
+          "probability": 1,
+          "unique": 3,
+          "hasDuplicates": false,
+          "values": [
+            "i",
+            "testing ",
+            "testing"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    },
+    {
+      "name": "salarySlip",
+      "path": [
+        "salarySlip"
+      ],
+      "count": 3,
+      "type": "Boolean",
+      "probability": 1,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "Boolean",
+          "path": [
+            "salarySlip"
+          ],
+          "count": 3,
+          "probability": 1,
+          "unique": 2,
+          "hasDuplicates": true,
+          "values": [
+            false,
+            true,
+            false
+          ],
+          "bsonType": "Boolean"
+        }
+      ]
+    },
+    {
+      "name": "updatedAt",
+      "path": [
+        "updatedAt"
+      ],
+      "count": 3,
+      "type": "Date",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "Date",
+          "path": [
+            "updatedAt"
+          ],
+          "count": 3,
+          "probability": 1,
+          "unique": 3,
+          "hasDuplicates": false,
+          "values": [
+            "2024-02-02T10:15:48.296Z",
+            "2024-03-26T10:00:15.822Z",
+            "2024-02-01T07:07:28.514Z"
+          ],
+          "bsonType": "Date"
+        }
+      ]
+    }
+  ]
+}

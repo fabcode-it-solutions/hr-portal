@@ -1,0 +1,140 @@
+{
+  "count": 2,
+  "fields": [
+    {
+      "name": "_id",
+      "path": [
+        "_id"
+      ],
+      "count": 2,
+      "type": "ObjectId",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "ObjectId",
+          "path": [
+            "_id"
+          ],
+          "count": 2,
+          "probability": 1,
+          "unique": 2,
+          "hasDuplicates": false,
+          "values": [
+            "658564ab6e8882fd84748ab3",
+            "658563b46e8882fd84748ab1"
+          ],
+          "bsonType": "ObjectId"
+        }
+      ]
+    },
+    {
+      "name": "__v",
+      "path": [
+        "__v"
+      ],
+      "count": 2,
+      "type": "Int32",
+      "probability": 1,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "Int32",
+          "path": [
+            "__v"
+          ],
+          "count": 2,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": true,
+          "values": [
+            0,
+            0
+          ],
+          "bsonType": "Int32"
+        }
+      ]
+    },
+    {
+      "name": "date",
+      "path": [
+        "date"
+      ],
+      "count": 2,
+      "type": "Date",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "Date",
+          "path": [
+            "date"
+          ],
+          "count": 2,
+          "probability": 1,
+          "unique": 2,
+          "hasDuplicates": false,
+          "values": [
+            "2023-12-22T10:27:55.369Z",
+            "2023-12-22T10:23:48.429Z"
+          ],
+          "bsonType": "Date"
+        }
+      ]
+    },
+    {
+      "name": "day",
+      "path": [
+        "day"
+      ],
+      "count": 2,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "day"
+          ],
+          "count": 2,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": true,
+          "values": [
+            "Sample Day",
+            "Sample Day"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    },
+    {
+      "name": "holiday",
+      "path": [
+        "holiday"
+      ],
+      "count": 2,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "holiday"
+          ],
+          "count": 2,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": true,
+          "values": [
+            "Sample Holiday",
+            "Sample Holiday"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    }
+  ]
+}

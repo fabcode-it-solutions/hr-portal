@@ -1,0 +1,137 @@
+{
+  "count": 8,
+  "fields": [
+    {
+      "name": "_id",
+      "path": [
+        "_id"
+      ],
+      "count": 8,
+      "type": "ObjectId",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "ObjectId",
+          "path": [
+            "_id"
+          ],
+          "count": 8,
+          "probability": 1,
+          "unique": 8,
+          "hasDuplicates": false,
+          "values": [
+            "65a774a03e6284724eb455f7",
+            "65a774e9ef08af3e781fb4a7",
+            "65a76fc7328049eafd9c0670",
+            "65a77486ef08af3e781fb494",
+            "65a774b4ef08af3e781fb49f",
+            "65a7746aef08af3e781fb490",
+            "65a774d0ef08af3e781fb4a3",
+            "65a77450ef08af3e781fb48c"
+          ],
+          "bsonType": "ObjectId"
+        }
+      ]
+    },
+    {
+      "name": "__v",
+      "path": [
+        "__v"
+      ],
+      "count": 8,
+      "type": "Int32",
+      "probability": 1,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "Int32",
+          "path": [
+            "__v"
+          ],
+          "count": 8,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": true,
+          "values": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "bsonType": "Int32"
+        }
+      ]
+    },
+    {
+      "name": "date",
+      "path": [
+        "date"
+      ],
+      "count": 8,
+      "type": "Date",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "Date",
+          "path": [
+            "date"
+          ],
+          "count": 8,
+          "probability": 1,
+          "unique": 8,
+          "hasDuplicates": false,
+          "values": [
+            "2024-10-02T00:00:00.000Z",
+            "2024-12-25T00:00:00.000Z",
+            "2024-01-26T00:00:00.000Z",
+            "2024-08-19T00:00:00.000Z",
+            "2024-11-01T00:00:00.000Z",
+            "2024-08-15T00:00:00.000Z",
+            "2024-11-02T00:00:00.000Z",
+            "2024-03-25T00:00:00.000Z"
+          ],
+          "bsonType": "Date"
+        }
+      ]
+    },
+    {
+      "name": "holidayName",
+      "path": [
+        "holidayName"
+      ],
+      "count": 8,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "holidayName"
+          ],
+          "count": 8,
+          "probability": 1,
+          "unique": 8,
+          "hasDuplicates": false,
+          "values": [
+            "Gandhi Jyanti",
+            "Christmas Day",
+            "Republic Day",
+            "Raksha Bandhan",
+            "Diwali ",
+            "Independence Day",
+            "Vishwakarma Day",
+            "Holi"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    }
+  ]
+}
