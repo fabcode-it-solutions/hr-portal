@@ -5,8 +5,8 @@
   "main": "functions/api.js",
   "type": "module",
   "scripts": {
-    "dev": "node api.js && nodemon functions/api.js",
-    "start": "node api.js && node functions/api.js",
+    "dev": "nodemon functions/api.js",
+    "start": "node functions/api.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "fabcode",
